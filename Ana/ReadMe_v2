@@ -16,7 +16,7 @@ The File called "Regression”_BMEN holds my Regression Models:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 2. Change the Panda Directory to the appropite name and location
-3. Press the start Button from the first line of code in the program to run the Class File
+3. Press the start Button from the first line of code in the program to run the "Classification_BMEN" File
 
 
 **How to Run the Regression Models**
@@ -24,4 +24,4 @@ https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 2. Change the Panda Directory to the appropriate name and location
 
-3. Press the start Button from the first line of code in the program to run the Regr File
+3. Press the start Button from the first line of code in the program to run the "Regression" File
