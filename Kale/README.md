@@ -15,7 +15,7 @@ To run a Classification model you need to Download the file called BC.csv in the
 
 Change the Panda Directory to the appropite name and location
 
-Press the start Button from the first line of code in the program to run the class File
+Press the start Button from the first line of code in the program to run the Classifier Model Files
 
 How to Run the Regression Models
 
@@ -23,4 +23,4 @@ To run a Regression model you need to Download the file called AC.csv in the mai
 
 Change the Panda Directory to the appropite name and location
 
-Press the start Button from the first line of code in the program to run the Regr File
+Press the start Button from the first line of code in the program to run the Regression Model Files
